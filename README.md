@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/iammoyen" target="blank"><img src="https://img.shields.io/twitter/follow/iammoyen?logo=twitter&style=for-the-badge" alt="iammoyen" /></a> </p>
 
-- 👨‍💻 Personal home page [moyen.dev](moyen.dev)
+- 👨‍💻 Personal home page: [moyen.dev](moyen.dev)
 
-- 💬 Ask me about **React, Redux, NextJS, Javascript, Typescript SCSS, Styled Components, End To End Testing**
+- 💬 Ask me about **React, Redux, NextJS, Javascript, Typescript, SCSS, Styled Components, End To End Testing**
 
 - 📫 How to reach me: **itsmoyen [at] gmail [dot] com**
 
